@@ -1,0 +1,9 @@
+{
+    "name": "jqwidgets",
+    "description": "",
+    "homepage": "https://github.com/AristosGroup/meteor-jqwidgets",
+    "author": "",
+    "version": "0.1.0",
+    "git": "git@github.com:AristosGroup/meteor-jqwidgets.git",
+    "packages": {}
+}
